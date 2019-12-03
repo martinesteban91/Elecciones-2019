@@ -1,11 +1,11 @@
 ## Elecciones-2019
 
-Análisis sobre el cambio de votos de las elecciones 2019 para Jefe de gobierno CABA.
+**Análisis sobre el cambio de votos de las elecciones 2019 para Jefe de gobierno CABA.**
 
 
 ### Mapa interactivo publicado https://lukewlodarczyk.github.io/Interactive-World-Map/
 
-*italic*Mapa hecho sobre los circuitos electorales.*italic*
+*Mapa hecho sobre los circuitos electorales.*
 
 
 * Var_votos_bool: Circuitos electorales donde el oficialismo gano o perdio votos respecto a las elecciones anteriores
