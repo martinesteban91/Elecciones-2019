@@ -1,7 +1,7 @@
 ## Elecciones-2019
 
 Análisis sobre el cambio de votos de las elecciones 2019 para Jefe de gobierno CABA.
-El mapa esta hecho sobre las secciones electorales.
+El mapa esta hecho sobre los circuitos electorales.
 
 ### Mapa interactivo publicado https://lukewlodarczyk.github.io/Interactive-World-Map/
 
