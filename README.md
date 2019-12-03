@@ -12,29 +12,25 @@ https://guides.github.com/features/mastering-markdown/
 * Var_votos_bool: Circuitos electorales donde el oficialismo gano o perdio votos respecto a las elecciones anteriores
 * Var_votos_ofi: % de votos ganados o perdidos
 
-Features:
+**Features:**
 
-* educ_superior: 
+* educ_superior: Datos tomados de https://www.estadisticaciudad.gob.ar/
 * usd_m2: Precios de m2 tomados de properati, año 2015
 * Obra publica: Montos gastados en obras publicas. Datos tomados de  https://data.buenosaires.gob.ar/
 * Variacion de comercios
 * Var_delitos: Datos tomados del mapa del delito del GCBA
-* Necesidades basicas
+* Necesidades basicas: NBI Necesidades Básicas Insatisfechas. Datos tomados de https://www.estadisticaciudad.gob.ar/
 
-Features importance:
+**Features importance:**
 Relevancia de las features que muestran el cambio de voto por circuito
 
-Modelos utilizados +Grid Search
+**Modelos utilizados +Grid Search**
 * Random Forest
 * Extra Trees
 * KNN
 
-Librerias utilizadas para mapa y ML
+**Librerias utilizadas para mapa y ML**
 
-*numpy 
-*pandas 
-*matplotlib
-*sklearn
-*
+numpy - pandas - matplotlib - sklearn - folium
 
 
