@@ -2,6 +2,11 @@
 
 **Análisis sobre el cambio de votos de las elecciones 2019 para Jefe de gobierno CABA.**
 
+Objetivo: Intentar explicar la influencia de los cambios realizados por la gestion actual y las caracteristicas de la poblacion en la variacion de voto.
+¿Se ganaron votos donde se inviertio mas?
+¿Se perdieron votos donde aumento la delincuencia?
+¿Quienes tendieron a cambiar mas su voto?
+
 https://guides.github.com/features/mastering-markdown/
 
 ### Mapa interactivo publicado https://lukewlodarczyk.github.io/Interactive-World-Map/
