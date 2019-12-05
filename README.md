@@ -8,7 +8,7 @@ Trabajo realizado en conjunto con: Juan O’Donell, Leandro Martínez, Guido Hai
 Objetivo: Intentar explicar la influencia de los cambios realizados por la gestion actual y las caracteristicas de la poblacion en la variacion de voto.
 ¿Se ganaron votos donde se inviertio mas?
 ¿Se perdieron votos donde aumento la delincuencia?
-¿Quienes tendieron a cambiar mas su voto?
+¿Quienes tendieron a cambiar su voto?
 
 
 ![Mapa](https://user-images.githubusercontent.com/53145526/70205387-9c6d3e80-1702-11ea-88f6-5422cdf4db97.PNG)
