@@ -8,7 +8,8 @@ Objetivo: Intentar explicar la influencia de los cambios realizados por la gesti
 ¿Quienes tendieron a cambiar mas su voto?
 
 
-![Mapa1-_3_](https://user-images.githubusercontent.com/53145526/70204836-bf96ee80-1700-11ea-8247-7d11d800288d.gif)
+![Mapa](https://user-images.githubusercontent.com/53145526/70205387-9c6d3e80-1702-11ea-88f6-5422cdf4db97.PNG)
+
 
 
 *Mapa hecho sobre los circuitos electorales.*
