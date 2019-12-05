@@ -2,6 +2,9 @@
 
 **Análisis sobre el cambio de votos de las elecciones 2019 para Jefe de gobierno CABA.**
 
+Trabajo realizado en conjunto con: Juan O’Donell, Leandro Martínez, Guido Haissiner.
+
+
 Objetivo: Intentar explicar la influencia de los cambios realizados por la gestion actual y las caracteristicas de la poblacion en la variacion de voto.
 ¿Se ganaron votos donde se inviertio mas?
 ¿Se perdieron votos donde aumento la delincuencia?
