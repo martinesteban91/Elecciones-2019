@@ -7,9 +7,9 @@ Objetivo: Intentar explicar la influencia de los cambios realizados por la gesti
 ¿Se perdieron votos donde aumento la delincuencia?
 ¿Quienes tendieron a cambiar mas su voto?
 
-https://guides.github.com/features/mastering-markdown/
 
-### Mapa interactivo publicado https://lukewlodarczyk.github.io/Interactive-World-Map/
+![Mapa1-_3_](https://user-images.githubusercontent.com/53145526/70204836-bf96ee80-1700-11ea-8247-7d11d800288d.gif)
+
 
 *Mapa hecho sobre los circuitos electorales.*
 
