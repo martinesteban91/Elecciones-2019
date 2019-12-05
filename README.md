@@ -45,7 +45,7 @@ Relevancia de las features que muestran el cambio de voto por circuito
 ![Captura](https://user-images.githubusercontent.com/53145526/70203021-56ac7800-16fa-11ea-8632-8f29986cb795.PNG)
 
 
-![Comparacion](https://user-images.githubusercontent.com/53145526/70202796-81e29780-16f9-11ea-88a6-c8f8a0fc1ac4.png)
+![descarga](https://user-images.githubusercontent.com/53145526/70263840-02df7480-1776-11ea-9648-eaff689edc82.png)
 
 
 
