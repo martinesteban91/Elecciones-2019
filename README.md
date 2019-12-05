@@ -29,6 +29,8 @@ https://guides.github.com/features/mastering-markdown/
 **Features importance:**
 Relevancia de las features que muestran el cambio de voto por circuito
 
+![Feature importance](https://user-images.githubusercontent.com/53145526/70202843-b3f3f980-16f9-11ea-8c08-1dc04334a743.png)
+
 **Modelos utilizados +Grid Search**
 * Random Forest
 * Extra Trees
