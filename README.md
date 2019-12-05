@@ -34,6 +34,10 @@ Relevancia de las features que muestran el cambio de voto por circuito
 * Extra Trees
 * KNN
 
+Comparacion de modelos
+
+
+
 **Librerias utilizadas para mapa y ML**
 
 numpy - pandas - matplotlib - sklearn - folium
