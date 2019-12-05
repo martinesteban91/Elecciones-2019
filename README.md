@@ -36,7 +36,7 @@ Relevancia de las features que muestran el cambio de voto por circuito
 * Extra Trees
 * KNN
 
-Comparacion de modelos
+**Comparacion de modelos**
 
 ![Captura](https://user-images.githubusercontent.com/53145526/70203021-56ac7800-16fa-11ea-8632-8f29986cb795.PNG)
 
