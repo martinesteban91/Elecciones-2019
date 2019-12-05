@@ -36,7 +36,7 @@ Relevancia de las features que muestran el cambio de voto por circuito
 
 Comparacion de modelos
 
-
+https://github.com/martinesteban91/Elecciones-2019/blob/master/Comparacion.png
 
 **Librerias utilizadas para mapa y ML**
 
